@@ -1,47 +1,53 @@
-# 👋 Hi, I'm Mazen Emad (@mazenemad)
+# Hello, I'm Mazen 😄
 
-I'm a Computer Science student & builder. I like shipping real products with **Flutter + Firebase**
-and building clean, scalable systems.
+I'm a **senior** computer science student at the American University of Bahrain. I fell in love with building things in high school and have continued to pursue this path until now. I am currently the **Co-Founder & CTO of UniComm** a student event/opportunity discovery app, and for my **capstone project** I am building a curriculum management system **commissioned by AUBH**, to be used in production starting next academic semester. 
 
 ---
 
 ## 👀 Areas of Interest
-- Full-Stack Development (React, Node, REST APIs)
-- Mobile Apps (Flutter, Firebase)
-- Product & Startups
-- Data & Analytics
+- Mobile Programming, using Flutter & Firebase as a backend
+- Full-Stack Development 
+- Scalabale Products & Startups
 
----
-
-## 🌱 Currently Learning
-- Provider / state management patterns in Flutter
-- Firebase Functions (OTP + redemption flows)
-- Testing, CI/CD, and deployment
 
 ---
 
 ## 🧰 Skills & Tools
+**Harvard's CS50x Course**  
+[![](https://skillicons.dev/icons?i=c,python,flask,sqlite,html,css)](https://skillicons.dev)
 
-**Programming & Web**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+**AUBH Courses**  
+[![](https://skillicons.dev/icons?i=java,cs,swift,matlab,mysql,mongodb)](https://skillicons.dev)
+
+**Projects Knowledge**  
+[![](https://skillicons.dev/icons?i=flutter,firebase,js)](https://skillicons.dev)
+
+**Currently Learning**  
+[![](https://skillicons.dev/icons?i=ts,react,fastapi,aws)](https://skillicons.dev)
 
 ---
 
+## Live Production Projects
+<!-- UniComm, ClubAir, Zumaar -->
+I have 3 live mobile apps on the app and play store. 
+
+**UniComm**
+This is my startup, we are building Bahrain first student discovery and ticketing app. We launched in September at AUBH and in February in all high schools and universities in Bahrain and have received more than 400 downloads. 
+
+## AI assisted Projects
+
 ## 🚀 Featured Projects
+I have 3 production mobile apps live on the app and play store. 
 - **UniComm** — student engagement + events platform (Flutter, Firebase)
 - **Project 2** — 1 line value proposition + tech
 - **Project 3** — 1 line value proposition + tech
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your@email.com
-- Portfolio: https://yourdomain.com
+- Email: mazen.emadbh@gmail.com | mazen@unicomm.app
+
 
 
 <!--
